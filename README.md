@@ -1,8 +1,11 @@
+练习 爬虫、多线程、sql、GUI
 
-python3.6
+测试 PureVPN 服务列表连接速度
+
+python3.6，
 windows10
 
-需要安装的python包：
+需要安装的python库：
 
 - requests
 - bs4
